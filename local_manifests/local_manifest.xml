@@ -18,7 +18,7 @@
 <project path="device/oppo/msm8974-common" name="TheUnas/android_device_oppo_msm8974-common" remote="github" revision="cm-11.0" />
 <project path="device/oppo/common" name="TheUnas/android_device_oppo_common" remote="github" revision="cm-11.0" />
 <project path="vendor" name="TheUnas/android_vendor" remote="github" revision="master" />
-<project path="kernel" name="anarkia1976/AK-OnePone" remote="github" revision="cm12-ak-purified" />
+<project path="kernel/oneplus/msm8974" name="anarkia1976/AK-OnePone" remote="github" revision="cm12-ak" />
 <project path="frameworks/opt/connectivity" name="CyanogenMod/android_frameworks_opt_connectivity" remote="github" revision="cm-11.0" />
 <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.0" />
 <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" remote="github" revision="cm-12.0" />
