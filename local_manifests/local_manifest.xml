@@ -21,7 +21,8 @@
 <project path="device/oppo/msm8974-common" name="TheUnas/android_device_oppo_msm8974-common" remote="github" revision="cm-11.0" />
 <project path="device/oppo/common" name="TheUnas/android_device_oppo_common" remote="github" revision="cm-11.0" />
 <project name="Pinky-Inky-and-Clyde/proprietary_vendor_oneplus" path="vendor/oneplus" remote="github" revision="cm-12.0" />
-<project name="Pinky-Inky-and-Clyde/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-12.0" /><project path="kernel/oneplus/msm8974" name="anarkia1976/AK-OnePone" remote="github" revision="cm-12.0-ak" />
+<project name="Pinky-Inky-and-Clyde/proprietary_vendor_oppo" path="vendor/oppo" remote="github" revision="cm-12.0" />
+<project path="kernel/oneplus/msm8974" name="anarkia1976/AK-OnePone" remote="github" revision="cm-12.0-ak" />
 <project path="device/qcom/common" name="CyanogenMod/android_device_qcom_common" remote="github" revision="cm-12.0" />
 <project path="device/qcom/sepolicy" name="CyanogenMod/android_device_qcom_sepolicy" remote="github" revision="cm-12.0" />
 </manifest>
